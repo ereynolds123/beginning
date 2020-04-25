@@ -1,7 +1,6 @@
-# Portfolio
+# Beginning to Code
 
-
-This is my web development portfolio. Please check out my website emilyreynoldsdesigns.com
+This is the first projects I did. For current work,  please check out my website emilyreynoldsdesigns.com
 
 You can see examples of my websites at: burlingtontenantsunion.com
 
